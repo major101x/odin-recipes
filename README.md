@@ -1,5 +1,6 @@
 # odin-recipes
-This is a simple HTML website that displays links to different nigerian recipes. 
+
+This is a simple HTML website that displays links to different nigerian recipes.
 
 ## Learning Objectives
 
@@ -8,5 +9,3 @@ This is a simple HTML website that displays links to different nigerian recipes.
 - Learn about HTML images and links
 
 - Know some Nigerian Recipes
-
-
